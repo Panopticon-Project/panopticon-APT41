@@ -7,3 +7,5 @@ https://www.securityweek.com/supply-chain-attack-used-install-backdoors-asus-com
 https://www.securityweek.com/kaspersky-links-shadowhammer-supply-chain-attack-shadowpad-hackers
 
 https://www.wired.com/story/supply-chain-hackers-videogames-asus-ccleaner/
+
+https://www.wired.com/story/barium-supply-chain-hackers/
