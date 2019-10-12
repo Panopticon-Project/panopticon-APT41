@@ -15,3 +15,5 @@ https://www.wired.com/story/barium-supply-chain-hackers/
 https://www.fireeye.com/blog/threat-research/2019/08/apt41-dual-espionage-and-cyber-crime-operation.html
 
 https://www.digitalmunition.me/chinese-state-sponsored-phishing/
+
+https://securityaffairs.co/wordpress/90179/apt/apt41-targets-research-university.html
