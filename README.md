@@ -17,3 +17,9 @@ https://www.fireeye.com/blog/threat-research/2019/08/apt41-dual-espionage-and-cy
 https://www.digitalmunition.me/chinese-state-sponsored-phishing/
 
 https://securityaffairs.co/wordpress/90179/apt/apt41-targets-research-university.html
+
+https://www.bleepingcomputer.com/news/security/winnti-group-uses-new-portreuse-malware-against-asian-manufacturer/
+
+https://www.welivesecurity.com/2019/10/14/connecting-dots-exposing-arsenal-methods-winnti/
+
+https://www.infosecurity-magazine.com/news/tactics-of-supplychain-attack/
