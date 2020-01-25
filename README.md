@@ -27,3 +27,5 @@ https://www.infosecurity-magazine.com/news/tactics-of-supplychain-attack/
 https://www.scmagazine.com/home/security-news/major-software-vendor-compromised-with-previously-undocumented-portreuse-backdoor/
 
 https://www.cbronline.com/news/apt41-messagetap-fireeye
+
+https://www.theverge.com/2019/12/31/21044173/cloud-hopper-apt10-china-hackers
