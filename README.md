@@ -33,3 +33,5 @@ https://www.theverge.com/2019/12/31/21044173/cloud-hopper-apt10-china-hackers
 https://www.welivesecurity.com/2020/01/31/winnti-group-targeting-universities-hong-kong/
 
 https://www.scmagazineuk.com/industry-one-targeted-chinas-vision-2025-campaign/article/1678549
+
+https://unit42.paloaltonetworks.com/apt41-using-new-speculoos-backdoor-to-target-organizations-globally/
