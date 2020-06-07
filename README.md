@@ -2,6 +2,8 @@
 
 APT 41
 
+Need to confirm Winnti and Winnti Umbrella are the same thing and that it's relevant to Shadowpad
+
 https://securelist.com/operation-shadowhammer/89992/
 
 https://www.securityweek.com/supply-chain-attack-used-install-backdoors-asus-computers
