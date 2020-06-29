@@ -63,3 +63,5 @@ https://cyware.com/news/winnti-group-uses-new-malware-to-exploit-mssql-servers-a
 https://www.cyberscoop.com/eset-shadow-brokers-nsa-winnti-china/
 
 https://www.welivesecurity.com/2020/05/21/no-game-over-winnti-group/
+
+https://www.darktrace.com/en/blog/catching-apt-41-exploiting-a-zero-day-vulnerability/
