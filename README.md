@@ -69,3 +69,5 @@ https://www.darktrace.com/en/blog/catching-apt-41-exploiting-a-zero-day-vulnerab
 https://threatpost.com/black-hat-linux-spyware-stack-chinese-apts/158092/
 
 https://www.wired.com/story/chinese-hackers-taiwan-semiconductor-industry-skeleton-key/
+
+https://www.cpomagazine.com/cyber-security/chinese-hackers-off-to-a-busy-start-in-2020-with-massive-1q-cyber-espionage-campaign/
