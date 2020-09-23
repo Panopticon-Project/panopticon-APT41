@@ -75,3 +75,5 @@ https://www.cpomagazine.com/cyber-security/chinese-hackers-off-to-a-busy-start-i
 https://www.securityweek.com/more-details-emerge-operations-members-chinese-group-apt41
 
 https://security-tzu.com/2020/09/18/hunting-for-techniques-used-by-apt41/
+
+https://www.securityweek.com/more-details-emerge-operations-members-chinese-group-apt41
