@@ -73,3 +73,5 @@ https://www.wired.com/story/chinese-hackers-taiwan-semiconductor-industry-skelet
 https://www.cpomagazine.com/cyber-security/chinese-hackers-off-to-a-busy-start-in-2020-with-massive-1q-cyber-espionage-campaign/
 
 https://www.securityweek.com/more-details-emerge-operations-members-chinese-group-apt41
+
+https://security-tzu.com/2020/09/18/hunting-for-techniques-used-by-apt41/
