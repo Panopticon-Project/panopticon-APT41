@@ -79,3 +79,5 @@ https://security-tzu.com/2020/09/18/hunting-for-techniques-used-by-apt41/
 https://www.securityweek.com/more-details-emerge-operations-members-chinese-group-apt41
 
 https://www.zdnet.com/article/us-charges-five-hackers-part-of-chinese-state-sponsored-group-apt41
+
+https://securelist.com/an-overview-of-targeted-attacks-and-apts-on-linux/98440/
