@@ -81,3 +81,5 @@ https://www.securityweek.com/more-details-emerge-operations-members-chinese-grou
 https://www.zdnet.com/article/us-charges-five-hackers-part-of-chinese-state-sponsored-group-apt41
 
 https://securelist.com/an-overview-of-targeted-attacks-and-apts-on-linux/98440/
+
+https://www.cyberscoop.com/chinese-iranian-hackers-front-companies/
