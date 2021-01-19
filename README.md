@@ -85,3 +85,5 @@ https://securelist.com/an-overview-of-targeted-attacks-and-apts-on-linux/98440/
 https://www.cyberscoop.com/chinese-iranian-hackers-front-companies/
 
 https://www.ptsecurity.com/ww-en/analytics/pt-esc-threat-intelligence/higaisa-or-winnti-apt-41-backdoors-old-and-new/
+
+https://securityaffairs.co/wordpress/113458/apt/winnti-attacks-russia-hk.html
