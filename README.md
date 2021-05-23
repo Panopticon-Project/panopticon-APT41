@@ -95,3 +95,5 @@ https://www.ptsecurity.com/ww-en/analytics/pt-esc-threat-intelligence/higaisa-or
 https://www.securityweek.com/least-10-threat-actors-targeting-recent-microsoft-exchange-vulnerabilities
 
 https://www.scmagazine.com/home/security-news/new-malware-tied-to-china-targets-linux-endpoints-and-servers/
+
+https://cybernews.com/security/10-apt-groups-that-joined-the-ms-exchange-exploitation-party/
