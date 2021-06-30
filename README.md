@@ -1,6 +1,6 @@
-# panopticon-Shadowpad
+# panopticon-APT41
 
-APT 41
+Has a number of aliases and not all used consistently. See [attribution](https://github.com/Panopticon-Project/panopticon-Nomenclature-Attribution)
 
 Need to confirm Winnti and Winnti Umbrella are the same thing and that it's relevant to Shadowpad
 
