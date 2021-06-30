@@ -99,3 +99,7 @@ https://www.scmagazine.com/home/security-news/new-malware-tied-to-china-targets-
 https://cybernews.com/security/10-apt-groups-that-joined-the-ms-exchange-exploitation-party/
 
 https://threatpost.com/supply-chain-attack-airlines-state-actor/166842/
+
+https://www.ptsecurity.com/ww-en/analytics/pt-esc-threat-intelligence/shadowpad-new-activity-from-the-winnti-group/
+
+https://www.prnewswire.com/in/news-releases/recorded-future-china-linked-group-redecho-targets-the-indian-power-sector-896581599.html
