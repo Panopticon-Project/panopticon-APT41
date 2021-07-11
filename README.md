@@ -103,3 +103,5 @@ https://threatpost.com/supply-chain-attack-airlines-state-actor/166842/
 https://www.ptsecurity.com/ww-en/analytics/pt-esc-threat-intelligence/shadowpad-new-activity-from-the-winnti-group/
 
 https://www.prnewswire.com/in/news-releases/recorded-future-china-linked-group-redecho-targets-the-indian-power-sector-896581599.html
+
+https://securityaffairs.co/wordpress/119677/malware/mongolian-ca-monpass-hack.html
