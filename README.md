@@ -105,3 +105,5 @@ https://www.ptsecurity.com/ww-en/analytics/pt-esc-threat-intelligence/shadowpad-
 https://www.prnewswire.com/in/news-releases/recorded-future-china-linked-group-redecho-targets-the-indian-power-sector-896581599.html
 
 https://securityaffairs.co/wordpress/119677/malware/mongolian-ca-monpass-hack.html
+
+https://www.trendmicro.com/en_us/research/21/g/biopass-rat-new-malware-sniffs-victims-via-live-streaming.html
