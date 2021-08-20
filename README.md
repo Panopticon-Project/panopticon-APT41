@@ -109,3 +109,5 @@ https://securityaffairs.co/wordpress/119677/malware/mongolian-ca-monpass-hack.ht
 https://www.trendmicro.com/en_us/research/21/g/biopass-rat-new-malware-sniffs-victims-via-live-streaming.html
 
 https://www.securityweek.com/hackers-compromise-mongolian-certificate-authority-spread-malware
+
+https://assets.sentinelone.com/c/Shadowpad?x=P42eqA
