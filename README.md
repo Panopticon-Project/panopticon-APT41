@@ -111,3 +111,5 @@ https://www.trendmicro.com/en_us/research/21/g/biopass-rat-new-malware-sniffs-vi
 https://www.securityweek.com/hackers-compromise-mongolian-certificate-authority-spread-malware
 
 https://assets.sentinelone.com/c/Shadowpad?x=P42eqA
+
+https://www.trendmicro.com/vinfo/in/security/news/cybercrime-and-digital-threats/earth-baku-returns
