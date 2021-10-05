@@ -113,3 +113,5 @@ https://www.securityweek.com/hackers-compromise-mongolian-certificate-authority-
 https://assets.sentinelone.com/c/Shadowpad?x=P42eqA
 
 https://www.trendmicro.com/vinfo/in/security/news/cybercrime-and-digital-threats/earth-baku-returns
+
+https://blogs.blackberry.com/en/2021/10/drawing-a-dragon-connecting-the-dots-to-find-apt41
