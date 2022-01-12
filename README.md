@@ -119,3 +119,5 @@ https://blogs.blackberry.com/en/2021/10/drawing-a-dragon-connecting-the-dots-to-
 https://www.infosecurity-magazine.com/news/chinas-apt41-manages-library/?utm_source=dlvr.it&utm_medium=twitter
 
 https://www.mandiant.com/resources/apt41-initiates-global-intrusion-campaign-using-multiple-exploits
+
+https://www.venafi.com/sites/default/files/2021-11/Venafi_WhitePaper_CodeSigningAPT41_2021_f_0.pdf
