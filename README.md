@@ -121,3 +121,5 @@ https://www.infosecurity-magazine.com/news/chinas-apt41-manages-library/?utm_sou
 https://www.mandiant.com/resources/apt41-initiates-global-intrusion-campaign-using-multiple-exploits
 
 https://www.venafi.com/sites/default/files/2021-11/Venafi_WhitePaper_CodeSigningAPT41_2021_f_0.pdf
+
+https://www.novetta.com/2015/07/operation-smn-axiom-threat-actor-group-report/ - the og report
