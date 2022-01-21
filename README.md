@@ -123,3 +123,5 @@ https://www.mandiant.com/resources/apt41-initiates-global-intrusion-campaign-usi
 https://www.venafi.com/sites/default/files/2021-11/Venafi_WhitePaper_CodeSigningAPT41_2021_f_0.pdf
 
 https://www.novetta.com/2015/07/operation-smn-axiom-threat-actor-group-report/ - the og report
+
+https://www.securityweek.com/prolific-chinese-apt-caught-using-moonbounce-uefi-firmware-implant
