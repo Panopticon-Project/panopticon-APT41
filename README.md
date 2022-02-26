@@ -127,3 +127,5 @@ https://www.novetta.com/2015/07/operation-smn-axiom-threat-actor-group-report/ -
 https://www.securityweek.com/prolific-chinese-apt-caught-using-moonbounce-uefi-firmware-implant
 
 https://www.fbi.gov/wanted/cyber/apt-41-group
+
+http://www.novetta.com/wp-content/uploads/2014/11/Executive_Summary-Final_1.pdf
