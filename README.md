@@ -129,3 +129,5 @@ https://www.securityweek.com/prolific-chinese-apt-caught-using-moonbounce-uefi-f
 https://www.fbi.gov/wanted/cyber/apt-41-group
 
 http://www.novetta.com/wp-content/uploads/2014/11/Executive_Summary-Final_1.pdf
+
+https://www.securityweek.com/us-state-governments-targeted-chinese-hackers-zero-day-agriculture-tool
