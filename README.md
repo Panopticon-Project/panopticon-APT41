@@ -133,3 +133,5 @@ http://www.novetta.com/wp-content/uploads/2014/11/Executive_Summary-Final_1.pdf
 https://www.securityweek.com/us-state-governments-targeted-chinese-hackers-zero-day-agriculture-tool
 
 https://www.mandiant.com/resources/apt41-us-state-governments
+
+https://www.wired.com/story/china-apt41-hacking-usaherds-log4j/
