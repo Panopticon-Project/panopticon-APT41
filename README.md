@@ -135,3 +135,5 @@ https://www.securityweek.com/us-state-governments-targeted-chinese-hackers-zero-
 https://www.mandiant.com/resources/apt41-us-state-governments
 
 https://www.wired.com/story/china-apt41-hacking-usaherds-log4j/
+
+https://www.securityweek.com/china-linked-winnti-apt-group-silently-stole-trade-secrets-years-report
