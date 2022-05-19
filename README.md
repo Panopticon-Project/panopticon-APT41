@@ -137,3 +137,9 @@ https://www.mandiant.com/resources/apt41-us-state-governments
 https://www.wired.com/story/china-apt41-hacking-usaherds-log4j/
 
 https://www.securityweek.com/china-linked-winnti-apt-group-silently-stole-trade-secrets-years-report
+
+Could be Tianwu, could be APT41
+
+https://decoded.avast.io/luigicamastra/operation-dragon-castling-apt-group-targeting-betting-companies/
+
+https://i.blackhat.com/Asia-22/Thursday-Materials/AS-22-LeonSilvia-NextGenPlugXShadowPad.pdf
