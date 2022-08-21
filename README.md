@@ -143,3 +143,5 @@ Could be Tianwu, could be APT41
 https://decoded.avast.io/luigicamastra/operation-dragon-castling-apt-group-targeting-betting-companies/
 
 https://i.blackhat.com/Asia-22/Thursday-Materials/AS-22-LeonSilvia-NextGenPlugXShadowPad.pdf
+
+https://www.securityweek.com/chinas-winnti-group-hacked-least-13-organizations-2021-security-firm
