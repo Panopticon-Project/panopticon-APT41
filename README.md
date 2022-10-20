@@ -149,3 +149,5 @@ https://www.securityweek.com/chinas-winnti-group-hacked-least-13-organizations-2
 https://www.securityweek.com/chinas-winnti-group-seen-targeting-governments-sri-lanka-hong-kong
 
 https://therecord.media/hong-kong-govt-orgs-targeted-for-over-a-year-with-spyder-loader-malware-report/
+
+https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/spyder-loader-cuckoobees-hong-kong
