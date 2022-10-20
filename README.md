@@ -145,3 +145,5 @@ https://decoded.avast.io/luigicamastra/operation-dragon-castling-apt-group-targe
 https://i.blackhat.com/Asia-22/Thursday-Materials/AS-22-LeonSilvia-NextGenPlugXShadowPad.pdf
 
 https://www.securityweek.com/chinas-winnti-group-hacked-least-13-organizations-2021-security-firm
+
+https://www.securityweek.com/chinas-winnti-group-seen-targeting-governments-sri-lanka-hong-kong
