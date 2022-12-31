@@ -153,3 +153,5 @@ https://therecord.media/hong-kong-govt-orgs-targeted-for-over-a-year-with-spyder
 https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/spyder-loader-cuckoobees-hong-kong
 
 https://www.malwarebytes.com/blog/threat-intelligence/2022/10/winnti-apt-group-docks-in-sri-lanka-for-new-campaign
+
+https://medium.com/@DCSO_CyTec/apt41-the-spy-who-failed-to-encrypt-me-24fc0f49cad1
