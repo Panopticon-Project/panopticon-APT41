@@ -155,3 +155,7 @@ https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/spyder-
 https://www.malwarebytes.com/blog/threat-intelligence/2022/10/winnti-apt-group-docks-in-sri-lanka-for-new-campaign
 
 https://medium.com/@DCSO_CyTec/apt41-the-spy-who-failed-to-encrypt-me-24fc0f49cad1
+
+https://www.mandiant.com/resources/blog/apt41-dual-espionage-and-cyber-crime-operation
+
+https://www.nbcnews.com/tech/security/chinese-hackers-covid-fraud-millions-rcna59636
